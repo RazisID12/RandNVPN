@@ -2,7 +2,7 @@
 #
 # Скрипт для установки на своём сервере AntiZapret VPN и обычного VPN
 #
-# https://github.com/GubernievS/AntiZapret-VPN
+# https://github.com/RazisID12/RandNVPN
 #
 
 #
